@@ -19,9 +19,11 @@ Showing overview of the features of two datasets:
 |**latitude**|float|ksa_traff_accid,ksa_driv_lic|The latitude coordinate of the associated region.|
 |**longitude**|float|ksa_traff_accid,ksa_driv_lic|The longitude coordinate of the associated region.|
 
-## conclusions & Recommendations:
-### conclusions:
-- This report was created to help identify the causes of the increase in traffic accidents and how to find solutions to facilitate road traffic in Saudi Arabia. 
+## Conclusions & Recommendations:
+### Conclusions:
+- This report was created to help identify the causes of the increase in traffic accidents and how to find solutions to facilitate road traffic in Saudi Arabia. The data analyzed showed that the trend was to reduce the number of traffic accidents.
+ During the years (2016-2017), data from the Traffic Department of the Ministry of Interior showed an increase in the main areas of Makkah, Riyadh and the Eastern region above the mean number of accidents. 
+
 ### Recommendations:
 - You have to be careful and focus when you driving in Makkah. Seems like the accidents is a lot higher than average.
 
