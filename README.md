@@ -4,9 +4,9 @@ From the data provided by the Traffic Department of the Ministry of Interior to 
 ## Summary:
 We find two issues in the data that should be the main focus of the General Department of traffic going forward:
 
-- While traffic accidents in most regions are relatively similar, 3 regions with traffic accidents are significantly higher than the average: Mekkah,Riyadh and the Eastern Region.
+- While traffic accidents in most regions are relatively similar, three areas have far above the mean traffic accidents: Makkah, Riyadh and the Eastern Region.
 
-- Traffic department focus should be on the regions named in the previous point and specifically on Makkah region. Investigation into: traffic policies and road infrastructure spending should be first priority.
+- The Traffic Department of the Ministry of Interior should focus on the regions mentioned in the previous point, which have a high population density.
 ##  Dictionary:
 Showing overview of the features of two datasets:
 |Feature|Type|Dataset|Description|
@@ -25,7 +25,7 @@ Showing overview of the features of two datasets:
  During the years (2016-2017), data from the Traffic Department of the Ministry of Interior showed an increase in the main regions of Makkah, Riyadh and the Eastern region above the mean number of accidents. 
 
 ### Recommendations:
-- You have to be careful and focus when you driving in Makkah. Seems like the accidents is a lot higher than average.
+- You have to be careful and focus when driving in the major regions of Saudi Arabia. Accidents show much higher than the mean number of accidents in these regions.
 
-- More scrutiny should be made into traffic violations in Makkah region and made plans to repair or modify existing roads, as well as when made plans to build new roads.
+- The traffic department should conduct more scrutiny and develop plans for the most densely populated regions.
 
