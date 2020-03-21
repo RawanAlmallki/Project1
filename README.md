@@ -1,6 +1,6 @@
 # Project1: Traffic accidents & driving licenses in KSA
 ## Problem statement:
-From the data provided by the Traffic Department of the Ministry of Interior to monitor traffic accidents. It was analysed to provide recommendations to help reduce traffic accidents. We analyzed a dataset showing the number of traffic accidents for the regions in 2016-2017 and a dataset showing the number of driver's licenses issued in 1993-2017.
+The Traffic Department of the Ministry of Interior faced a problem in increasing traffic accidents in 2016-2017 and the average rate of traffic accidents in Saudi Arabia was up to (41029-35422) and there are regions in Saudi Arabia that exceed this average and have increased the level of damage caused by accidents.
 ## Summary:
 We find two issues in the data that should be the main focus of the General Department of traffic going forward:
 
