@@ -1,6 +1,6 @@
 # Project1: Traffic accidents & driving licenses in KSA
 ## Problem statement:
-The Traffic Department of the Ministry of Interior faced a problem in increasing traffic accidents in 2016-2017 and the average rate of traffic accidents in Saudi Arabia was up to (41029-35422) and there are regions in Saudi Arabia that exceed this average and have increased the level of damage caused by accidents.
+The Traffic Department of the Ministry of Interior faced a problem in increasing traffic accidents in (2016-2017) and the average rate of traffic accidents in Saudi Arabia was up to (41029-35422) and there are regions in Saudi Arabia that exceed this average and have increased the level of damage caused by accidents.
 ## Summary:
 We find two issues in the data that should be the main focus of the General Department of traffic going forward:
 
